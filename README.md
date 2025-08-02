@@ -32,6 +32,7 @@ This Streamlit web application predicts possible diseases based on symptoms sele
 
 The model was trained using a Random Forest Classifier on a dataset containing 132 symptoms and their associated diseases, originally from [this Kaggle notebook](https://www.kaggle.com/code/miadul/disease-prediction-using-machine-learning/input).
 
+accuracy = 100%
 ---
 
 ## 📦 Installation
