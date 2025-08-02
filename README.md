@@ -42,7 +42,10 @@ The model was trained using a Random Forest Classifier on a dataset containing 1
    ```bash
    git clone https://github.com/your-username/disease-predictor-app.git
    cd disease-predictor-app
-2.Install dependencies:
+2.Install dependencies
+
 pip install -r requirements.txt
+
 3.Run the app:
+
 streamlit run app.py
